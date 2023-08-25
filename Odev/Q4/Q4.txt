@@ -1,0 +1,4 @@
+The difference between reference type and value type is when a variable passed as value type it is the copy of the value of the variable whereas when a variable
+passed as reference type it's address is passed so when a change occurs in the variable that the address denote it means the original value of the variable has changed.
+Reference types are held in the heap memory except for the address of the said reference (which may also be stored in the heap in some cases)
+Value types may be stored both on the heap and stack memory according to where they are used.

@@ -1,0 +1,3 @@
+Recursion lets us call functions recursively. The function calls itself during return process to return a value that is often associated with the initial return
+until a closing condition met such as num = 1 in our function's case. Every function call during return getting added onto stack until closing condition
+after that functions gets out of stack one by one until the base function call is returns it's value.
