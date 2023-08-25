@@ -1,4 +1,4 @@
 With this example I have tried to display importance of SR principle. Single Responsibility lets us have a lot more readable classes and prevents getting lost in big classes.
 A class only does what it needs to. We have more classes that way but it helps the developers a lot with the debugging process.
-I have used a lot of puns whils preparing this example but Clean Code says "Do not pun!". Classes and methods should clearly state their intent and should not pun
+I have used a lot of puns whilst preparing this example but Clean Code says "Do not pun!". Classes and methods should clearly state their intent and should not pun
 to prevent ambiguity so whilst trying to correct a principle I broke another.
